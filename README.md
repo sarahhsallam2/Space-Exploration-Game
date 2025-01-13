@@ -1,4 +1,4 @@
-Space Exploration VR Game 🚀🌌
+### Space Exploration VR Game 🚀🌌
 
 Objective
 The primary goal of this project was to raise awareness and enhance knowledge about Virtual Reality (VR) and the metaverse. By encouraging people to explore immersive virtual environments using Oculus Quest 2, the project was created to highlight the educational and engaging potential of VR technology.
